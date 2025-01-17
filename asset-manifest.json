@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MERN-Stack-Blog-App/static/css/main.1b635e70.css",
+    "main.js": "/MERN-Stack-Blog-App/static/js/main.d3ae1a68.js",
+    "static/media/blog1.jpg": "/MERN-Stack-Blog-App/static/media/blog1.88b76b39e5b8bc07f272.jpg",
+    "static/media/blog4.jpg": "/MERN-Stack-Blog-App/static/media/blog4.60da1fcb47ff8baeaf54.jpg",
+    "static/media/blog3.jpg": "/MERN-Stack-Blog-App/static/media/blog3.faf0c291931b113130d0.jpg",
+    "static/media/blog22.jpg": "/MERN-Stack-Blog-App/static/media/blog22.03ef9009b121a36c959f.jpg",
+    "static/media/blog2.jpg": "/MERN-Stack-Blog-App/static/media/blog2.bd7550db5a278835f905.jpg",
+    "static/media/logo.png": "/MERN-Stack-Blog-App/static/media/logo.f8172479888f10941cf3.png",
+    "static/media/avatar5.jpg": "/MERN-Stack-Blog-App/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar15.jpg": "/MERN-Stack-Blog-App/static/media/avatar15.09ccdf72196347fe29cc.jpg",
+    "index.html": "/MERN-Stack-Blog-App/index.html",
+    "main.1b635e70.css.map": "/MERN-Stack-Blog-App/static/css/main.1b635e70.css.map",
+    "main.d3ae1a68.js.map": "/MERN-Stack-Blog-App/static/js/main.d3ae1a68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b635e70.css",
+    "static/js/main.d3ae1a68.js"
+  ]
+}
