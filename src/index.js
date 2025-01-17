@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import {createBrowserRouter} from 'react-router-dom'
+import {createHashRouter} from 'react-router-dom'
 
 import './index.css';
 
@@ -22,7 +22,7 @@ import Dashboard from './pages/Dashboard'
 import Logout from './pages/Logout'
 import { ImPriceTag } from 'react-icons/im';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Layout/>,
