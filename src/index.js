@@ -22,7 +22,7 @@ import Dashboard from './pages/Dashboard'
 import Logout from './pages/Logout'
 import { ImPriceTag } from 'react-icons/im';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout/>,
